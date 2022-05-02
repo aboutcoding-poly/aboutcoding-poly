@@ -8,6 +8,7 @@
 * [정태일](https://github.com/taeiljung)
 * [김용재](https://github.com/bernadette1008)
 * [배형권](https://github.com/smcmfmf)
+* [이상진](https://github.com/SangJinL)
 >이하 추가예정
 
 ## 활동목표 및 계획
